@@ -3,4 +3,6 @@
     <string name="kritik_saran"><![CDATA[Kritik & Saran]]></string>
     <string name="sign_in_to_continue">Sign in to continue</string>
     <string name="enter_your_password">Enter Your Password</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
 </resources>
